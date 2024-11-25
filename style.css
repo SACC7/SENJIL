@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: blue;
+    background-color: black;
+    border: 2px;
+   border-style: solid;
+   border-color: aquamarine;
+   border-radius: 12px;
+}
+#para{
+    border: 3px red solid;
+    margin: 20px;
+    padding: 30px;
+    margin-bottom: 4px;
+    margin-top: 6px;
+    padding-left: 20px;
+}
+table,th,td{
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 70%;
+}
+
